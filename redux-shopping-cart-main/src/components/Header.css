@@ -1,0 +1,12 @@
+.container{
+    border:0px solid black;
+}
+#header{
+    border:0px solid red;
+    margin-top:80px;
+    z-index: index;
+}
+
+.navbar>h4{
+visibility: hidden;
+}

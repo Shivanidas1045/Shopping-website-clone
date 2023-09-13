@@ -1,0 +1,181 @@
+/* arrival section */
+.topone{
+    height:630px;
+    width:80%;
+    border:0px solid black;
+    margin:auto;
+
+}
+
+
+.dont{
+    width:80%;
+    margin:auto;
+    height:280px;
+    background-color:#E6E6FA;
+    text-align:center;
+    padding-top:30px;
+    margin-top:30px;
+    margin-bottom:20px;
+}
+.dont>p{
+    font-size:15px;
+    color:solid black;
+}
+.dont>h1{
+    padding-top:10px;
+
+}
+.dont>h2{
+    font-stretch:cursive;
+}
+.dont a{
+    text-decoration:none;
+    color:white;
+}
+.dont>button{
+    background-color:peru;
+    color:white;
+    padding:7px 18px 7px 18px;
+    margin-top:40px;
+}
+/* after new arrival */
+.twoboxes{
+    height:160px;
+    width:80%;
+    border:0px solid black;
+    margin:auto;
+    display:flex;
+    justify-content:space-evenly;
+}
+.twoboxes>div{
+    text-align:center;
+    width:30%;
+    
+   border: 0px solid black;
+}
+/* bride section */
+.bridesection{
+    width:80%;
+    height:960px;
+    border:0px solid black;
+    margin:auto;
+    display:flex;
+    
+
+}
+.bridesection>div{
+    border:0px solid black;
+    width:70%;
+}
+.bridesection>div a{
+    text-decoration:none;
+    color:white;
+}
+.bridesection>div button{
+    background-color:peru;
+    color:white;
+    padding:7px 18px 7px 18px;
+    margin-left:220px;
+    margin-top:30px;
+    margin-bottom:13px;
+}
+.bridesection>div p{
+text-align:center;
+}
+.bridesection>div h2{
+    text-align:center;
+}
+/* bag section */
+
+.bag{
+    width:80%;
+    height:960px;
+    border:0px solid black;
+    margin:auto;
+    display:flex;
+    justify-content:space-around;
+
+    
+
+}
+.bag>div{
+    border:0px solid black;
+    width:90%;
+}
+.bag>div a{
+    text-decoration:none;
+    color:white;
+}
+.bag>div button{
+    background-color:peru;
+    color:white;
+    padding:7px 18px 7px 18px;
+    margin-left:230px;
+    margin-top:50px;
+}
+.bag>div p{
+text-align:center;
+}
+.bag>div h2{
+    text-align:center;
+}
+.bag>div img{
+    margin-left:20px;
+}
+/* BOTTOM SECTION */
+.bottomone{
+    text-align:center;
+    width:80%;
+    height:130px;
+    border:0px solid black;
+    margin:auto;
+}
+.bottomtwo{
+    height:360px;
+    width:80%;
+    border:0px solid black;
+    margin:auto;
+    display:flex;
+    justify-content:space-between;
+    text-align:center;
+}
+.bottomtwo>div{
+    border:0px solid black;
+    width:280px;
+    height:360px;
+}
+.bottomtwo>div img{
+    width:100%;
+}
+.bottomthree{
+    width:80%;
+    height:100px;
+    border:0px solid black;
+    margin:auto;
+
+}
+.bottomthree>button{
+    background-color:peru;
+    color:white;
+    padding:7px 18px 7px 18px;
+    margin-left:550px;
+    margin-top:50px;
+
+}
+.bottomthree a{
+    text-decoration:none;
+    color:white;
+}
+.para{
+    text-align:center;
+    width:80%;
+    height:300px;
+    margin:auto;
+    border:0px solid black;
+    background-color:ghostwhite;
+}
+button:hover{
+    background-color:chocolate;
+}
+/* footer section */
