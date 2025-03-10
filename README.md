@@ -10,7 +10,7 @@ Quantity increase and decrease <br/>
 ## Tech Stacks :-
 React <br/>
 Redux <br/>
-SCSS <br/>
+Bootstrap <br/>
 HTML <br/>
 CSS <br/>
 
@@ -22,7 +22,7 @@ CSS <br/>
 ![image](https://github.com/Shivanidas1045/Shopping-website-clone/assets/114162435/7e0772f1-c243-4772-bc44-1148a3433576) <br/> <br/>
 
 ## Live link :- 
-https://65017caa720b2c5d8acc6a85--dapper-croissant-3f3baf.netlify.app/login
+https://quiet-axolotl-868332.netlify.app/ <br/>
 ## Thanks for visiting ☺️
 
 
